@@ -1,4 +1,4 @@
-[
-    "url_example1",
-    "url_example2"
-]
+{
+    "root": "https://raw.githubusercontent.com/nespaucar/Bible-Resources/main/com.play.nrv60app/images/a",
+    "max": 54
+}
