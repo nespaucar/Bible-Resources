@@ -1,6 +1,4 @@
 {
-    "data": [
-        "https://raw.githubusercontent.com/nespaucar/Bible-Resources/main/com.play.nrv60app/images/a",
-        54
-    ]
+    "root": "https://raw.githubusercontent.com/nespaucar/Bible-Resources/main/com.play.nrv60app/images/a",
+    "max": 54
 }
